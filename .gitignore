@@ -1,5 +1,10 @@
 *.class
 *.log
+*.swp
+
+# credentials
+src/main/resources/credentials.conf
+src/test/resources/credentials.conf
 
 # sbt specific
 .cache
